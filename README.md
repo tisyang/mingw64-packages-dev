@@ -2,7 +2,7 @@
 
 Develop binarires for MinGW64, built with TDM-GCC-64.
 
-预编译的 MinGW64 的开发库及文件，适合用来移植程序到 Windows 上。
+预编译的 MinGW64 的开发库及文件，适合用来移植程序到 Windows 上。包含64位和32位编译版本。
 
 
 ## Usage

@@ -1,9 +1,8 @@
 # nng
 
-Version: 1.1.1
+Version: 1.2.4
 
 Type: static link
 
-Note: 
- * header file `nng.h` has been modified a little(define macro `NNG_DECL`) for building programs. 
- * built without `nngcat`.
+Note:
+  * Add definitions `NNG_STATIC_LIB` before including `nng.h`.
